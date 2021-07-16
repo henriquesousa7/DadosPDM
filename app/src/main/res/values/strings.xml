@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dados</string>
+    <string-array name="num_dicecs">
+        <item>1</item>
+        <item>2</item>
+    </string-array>
+</resources>
